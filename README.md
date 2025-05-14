@@ -1,8 +1,5 @@
-# React + Vite
+# Welcome to my repository!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The web application provides a very simple and an easy to use To-Do List which helps the users to manage their day to day tasks. The users are able to add, edit and in real time mark the tasks as completed or delete them. The interface is clean and responsive, implemented using HTML, CSS, and JavaScript, which makes using the app on desktop or mobile a breeze.
+The tasks are stored temporarily within the user's browser using localStorage. This means that users can come back to their list after refreshing the page. The application implements the task ‘strikethrough’ visually in real time via DOM manipulation and displays the tasks dynamically through localStorage. The easy to use interface features input validation, changeable state buttons, and moveable icons which enhance user experience.
+This is perfect for a first project because it teaches the fundamentals of web development, such as the usage of events, arrays, and saving data on the device. This project brings together a considerable number of JavaScript functions, loops, and event listeners. Future changes may include user authentication, dark mode, or integration with a backend.
